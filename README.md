@@ -2,7 +2,7 @@
 
 - 🎓 Cursando Bacharelado em Tecnologia da Informação na UFRN 
 - 📚 Sinto prazer em ler e descobrir coisas novas 
-- 💻 Atualmente aprendendo Django
+- 💻 Interesses em IA e automação
 
 ##
 
