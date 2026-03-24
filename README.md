@@ -1,7 +1,9 @@
 ## Olá, mundo! Eu sou a Helena Varela 👋
 
-- 🎓 **Educação:** Cursando Bacharelado em Tecnologia da Informação na **UFRN**
-- 💼 **Experiência:** Desenvolvedora com atuação em projetos corporativos.
+- 🎓 **Educação:** Cursando Bacharelado em Tecnologia da Informação na **UFRN**.
+- 💼 **Experiência:**
+  - Estagiária na **Polícia Científica do Rio Grande do Norte (PCI-RN)**.
+  - Membro da **Include Engenharia** (Empresa Júnior de Computação e Mecatrônica - UFRN).
 - 📚 **Interesses:** Apaixonada por leitura, aprendizado contínuo e tecnologia.
 
 ---
@@ -16,6 +18,8 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" />
   <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="35" alt="django logo" />
@@ -23,6 +27,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo" />
+</div>
+
+<br />
+
+**Banco de Dados e ORM**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="35" alt="sequelize logo" />
 </div>
 
 <br />
