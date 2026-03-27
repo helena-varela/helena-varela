@@ -1,9 +1,10 @@
-## Olá, mundo! Eu sou a Helena Varela 👋
+## Olá, mundo! Eu sou a Helena :) 👋
 
 - 🎓 **Educação:** Cursando Bacharelado em Tecnologia da Informação na **UFRN**.
 - 💼 **Experiência:**
   - Estagiária na **Polícia Científica do Rio Grande do Norte (PCI-RN)**.
   - Membro da **Include Engenharia** (Empresa Júnior de Computação e Mecatrônica - UFRN).
+  - Membro do **IEEE Computer Society**.
 - 📚 **Interesses:** Apaixonada por leitura, aprendizado contínuo e tecnologia.
 
 ---
@@ -31,11 +32,15 @@
 
 <br />
 
-**Banco de Dados e ORM**
+**Banco de Dados, ORM e Ferramentas de Infra/Dados**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="35" alt="sequelize logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="35" alt="dbeaver logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo" />
 </div>
 
 <br />
