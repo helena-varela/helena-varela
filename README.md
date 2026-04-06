@@ -56,16 +56,18 @@
 
 ### 📊 Estatísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=helena-varela&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=helena-varela&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph" />
-</div>
 
----
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats-eight-nu-30.vercel.app/api?username=helena-varela&theme=radical&bg_color=0d1117&border_color=9fa96f&title_color=9fa96f&text_color=ffffff&border_radius=10&show_icons=true" height="200" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=helena-varela&theme=radical&background=0d1117&border=9fa96f&stroke=9fa96f&ring=9fa96f&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=9fa96f&sideLabels=9fa96f&dates=888888&border_radius=10" alt="GitHub Streak" height="200" width="50%"/>
+  <br>
+
+</div>
 
 <div align="center">
   <p><i>"A única maneira de fazer um excelente trabalho é amar o que você faz."</i></p>
   <a href="https://gitlab.com/helena-varela">
-    <img src="https://img.shields.io/badge/GitLab-Trabalho_Privado-orange?style=for-the-badge&logo=gitlab" alt="GitLab Badge" />
+    <img src="https://img.shields.io/badge/GitLab-Trabalho_Privado-9fa96f?style=for-the-badge&logo=gitlab" alt="GitLab Badge" />
   </a>
 </div>
